@@ -1,6 +1,8 @@
 # Adaptive-Energy-Optimization-Using-Fuzzy-Logic
 This repository contains a Jupyter Notebook (Fuzzy_Model.ipynb) that implements a fuzzy inference system to model and predict appliance energy consumption based on various environmental and indoor conditions. The project leverages scikit-fuzzy to define fuzzy rules and membership functions, providing a human-interpretable approach to complex system modeling.
 
+![image alt](https://github.com/AswathGeek/Adaptive-Energy-Optimization-Using-Fuzzy-Logic/blob/0b7c4705846dc2a9fe0d01c3b42213135225ead0/Fuzzy_Publication.jpg)
+
 Description
 
 The core of this project is a fuzzy logic model designed to estimate appliance energy consumption. By taking into account factors such as temperature, humidity, pressure, wind speed, and visibility, the system infers a "consumption" output. This approach is particularly useful for scenarios where precise mathematical models are difficult to derive, but expert knowledge or heuristic rules can be formulated.
