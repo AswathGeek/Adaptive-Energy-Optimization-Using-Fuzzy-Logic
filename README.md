@@ -36,6 +36,7 @@ To run this notebook, you need the following Python libraries:
   * scikit-fuzzy
   * matplotlib
   * datetime
+
 You can install them using pip:
 
 Bash
@@ -43,7 +44,11 @@ Bash
 pip install pandas numpy scikit-fuzzy matplotlib
 
 Usage
+ 
   1.Clone the repository (if applicable).
+  
   2.Ensure the dataset is available: Place the energydata_complete.csv file in the appropriate location as referenced in the notebook, or update the data_path variable to point to your dataset.
+  
   3.Open the notebook: Launch Jupyter Notebook or JupyterLab and open Fuzzy_Model.ipynb.
+  
   4.Run cells: Execute the cells sequentially to load data, define the fuzzy system, and simulate consumption.
