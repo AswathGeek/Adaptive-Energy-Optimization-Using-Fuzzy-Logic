@@ -39,6 +39,7 @@ To run this notebook, you need the following Python libraries:
 You can install them using pip:
 
 Bash
+
 pip install pandas numpy scikit-fuzzy matplotlib
 
 Usage
