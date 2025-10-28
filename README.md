@@ -7,6 +7,8 @@ Description
 
 The core of this project is a fuzzy logic model designed to estimate appliance energy consumption. By taking into account factors such as temperature, humidity, pressure, wind speed, and visibility, the system infers a "consumption" output. This approach is particularly useful for scenarios where precise mathematical models are difficult to derive, but expert knowledge or heuristic rules can be formulated.
 
+Paper Link : https://link.springer.com/chapter/10.1007/978-981-96-6515-0_32
+
 Features
   * Fuzzy Logic Implementation: Utilizes the skfuzzy library to construct fuzzy sets, linguistic variables, and fuzzy rules.
   * Environmental Data Integration: Processes real-world environmental data to inform the fuzzy inference system.
